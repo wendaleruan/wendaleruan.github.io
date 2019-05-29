@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://8px.studio/</id>
+    <id>https://8px.studio</id>
     <title>Gridea</title>
-    <updated>2019-05-29T08:42:46.664Z</updated>
+    <updated>2019-05-29T08:55:17.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://8px.studio/"/>
-    <link rel="self" href="http://8px.studio//atom.xml"/>
+    <link rel="alternate" href="https://8px.studio"/>
+    <link rel="self" href="https://8px.studio/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://8px.studio//images/avatar.png</logo>
-    <icon>http://8px.studio//favicon.ico</icon>
+    <logo>https://8px.studio/images/avatar.png</logo>
+    <icon>https://8px.studio/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://8px.studio//post/hello-gridea</id>
-        <link href="http://8px.studio//post/hello-gridea">
+        <id>https://8px.studio/post/hello-gridea</id>
+        <link href="https://8px.studio/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
