@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://8px.studio</id>
     <title>8pxStudio</title>
-    <updated>2019-09-05T09:43:13.301Z</updated>
+    <updated>2019-09-05T09:44:11.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://8px.studio"/>
     <link rel="self" href="https://8px.studio/atom.xml"/>
@@ -16,9 +16,14 @@
         <link href="https://8px.studio/post/new-blog">
         </link>
         <updated>2019-09-05T09:38:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>原来用hexo真的嫌麻烦<br>
+这是第三次搭博客，应该能坚持就一点吧<br>
+虽然不知道写什么东西~</p>
+]]></summary>
         <content type="html"><![CDATA[<p>原来用hexo真的嫌麻烦<br>
 这是第三次搭博客，应该能坚持就一点吧<br>
 虽然不知道写什么东西~</p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
